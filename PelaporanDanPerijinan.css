@@ -1,0 +1,521 @@
+.tes-1-icon {
+  width: 991px;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.report-and-permit-label-child {
+  width: 1440px;
+  height: 798px;
+  position: relative;
+  background-color: var(--color-gainsboro-100);
+  display: none;
+  max-width: 100%;
+}
+.pelaporan-dan-perijinan2 {
+  margin: 0;
+  width: 400px;
+  height: 111px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.dinas-perdagkum,
+.kabupaten {
+  color: var(--color-steelblue-100);
+}
+.span2 {
+  color: var(--color-forestgreen);
+}
+.ponorogo {
+  color: var(--color-steelblue-100);
+}
+.dapat-dilakukan-melalui-container {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.kantor-visit-option {
+  width: 517px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-7xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: 35px;
+}
+.pemkab-ponorogo-h-q-address-child {
+  align-self: stretch;
+  width: 505px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightskyblue);
+  box-shadow: 10px 5px 6px rgba(0, 0, 0, 0.3);
+  display: none;
+  max-width: 100%;
+}
+.gedung-pemkab-ponorogo,
+.pemkab-ponorogo-h-q-address {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  max-width: 100%;
+}
+.gedung-pemkab-ponorogo {
+  margin: 0;
+  height: 223px;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  font-weight: 800;
+  font-family: inherit;
+  z-index: 3;
+}
+.pemkab-ponorogo-h-q-address {
+  width: 505px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-lightskyblue);
+  box-shadow: 10px 5px 6px rgba(0, 0, 0, 0.3);
+  flex-direction: row;
+  z-index: 2;
+  text-align: center;
+  font-size: var(--font-size-11xl);
+}
+.body-1-fix1,
+.report-and-permit-label {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.report-and-permit-label {
+  width: 1440px;
+  background-color: var(--color-gainsboro-100);
+  justify-content: flex-start;
+  padding: 95px 205px 144px;
+  gap: 25px 0;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-31xl);
+  color: var(--color-black);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.body-1-fix1 {
+  width: 1525px;
+  margin: 0 !important;
+  position: absolute;
+  top: 20px;
+  right: -85px;
+  justify-content: flex-end;
+  padding: 42px 0;
+  min-height: 933px;
+}
+.header-fix-item {
+  height: 113px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.report-and-permits-title {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-white);
+}
+.logo-text-1-icon2 {
+  position: absolute;
+  height: 74.6%;
+  width: 44.74%;
+  top: 14.29%;
+  right: 0;
+  bottom: 11.11%;
+  left: 55.26%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  z-index: 1;
+}
+.header1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+.lambang-kabupaten-ponorogo-196-icon2 {
+  position: absolute;
+  height: 100%;
+  top: 0;
+  bottom: 0;
+  left: 12px;
+  max-height: 100%;
+  width: 62px;
+  object-fit: cover;
+  z-index: 2;
+}
+.line-separator {
+  position: absolute;
+  top: 0;
+  left: 95px;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  width: 0;
+  height: 63px;
+  z-index: 2;
+}
+.lambang-kabupaten-ponorogo-fra {
+  height: 63px;
+  flex: 1;
+  position: relative;
+}
+.pasar-rakyat2 {
+  margin: 0;
+}
+.sumoroto3 {
+  margin: 0;
+  font-size: var(--font-size-17xl);
+}
+.pasar-rakyat-sumoroto-container2 {
+  height: 56px;
+  position: relative;
+  line-height: 30px;
+  font-weight: 800;
+  display: inline-block;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.fixed-header-frame,
+.lambang-kabupaten-ponorogo-fra-parent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.lambang-kabupaten-ponorogo-fra-parent {
+  align-self: stretch;
+  flex-direction: row;
+  gap: 22px;
+  cursor: pointer;
+  z-index: 1;
+}
+.fixed-header-frame {
+  width: 414px;
+  flex-direction: column;
+  padding: 0 var(--padding-5xl) 0 0;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+}
+.profil-pasar1 {
+  position: relative;
+  line-height: 30px;
+  font-weight: 800;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 1;
+}
+.profil-pasar-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+}
+.kontak-kami1 {
+  position: relative;
+  line-height: 30px;
+  font-weight: 800;
+  white-space: nowrap;
+  cursor: pointer;
+  z-index: 1;
+}
+.kontak-kami-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-6xs) 0 0;
+}
+.pelaporan-dan-perijinan3 {
+  position: relative;
+  line-height: 30px;
+  font-weight: 800;
+  white-space: nowrap;
+  z-index: 1;
+}
+.body-fix-frame,
+.search-text {
+  position: absolute;
+  border-radius: var(--br-xl);
+}
+.body-fix-frame {
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: var(--color-gainsboro-200);
+}
+.search-text {
+  height: calc(100% - 4px);
+  width: calc(100% - 4.4px);
+  top: 2px;
+  right: 2.2px;
+  bottom: 2px;
+  left: 2.2px;
+  background-color: var(--color-white);
+  z-index: 1;
+}
+.produk-dan-layanan-frame {
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.cari-produk-atau1 {
+  width: calc(100% - 81px);
+  border: 0;
+  outline: 0;
+  font-weight: 800;
+  font-family: var(--font-plus-jakarta-sans);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  height: 28px;
+  flex: 1;
+  position: relative;
+  line-height: 30px;
+  color: var(--color-gainsboro-200);
+  text-align: left;
+  display: inline-block;
+  min-width: 135px;
+  white-space: nowrap;
+  z-index: 2;
+}
+.magnifying-glass-icon {
+  height: 30px;
+  width: 2px;
+  position: relative;
+  border-right: 2px solid var(--color-gainsboro-200);
+  box-sizing: border-box;
+  z-index: 2;
+}
+.magnifying-glass-svgrepo-com-1-icon1 {
+  height: 18px;
+  width: 18px;
+  position: absolute;
+  margin: 0 !important;
+  top: 5px;
+  right: 27px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.pencarian1 {
+  align-self: stretch;
+  height: 32px;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) var(--padding-30xl) var(--padding-12xs)
+    var(--padding-sm);
+  position: relative;
+  gap: 2px;
+  z-index: 1;
+}
+.header-fix1,
+.pencarian1,
+.search-field-frame {
+  display: flex;
+  box-sizing: border-box;
+}
+.search-field-frame {
+  width: 292px;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xs) 0 0;
+}
+.header-fix1 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-6xl) var(--padding-xl);
+  gap: 0 14px;
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.footer-inner {
+  height: 113px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-white);
+  display: none;
+  max-width: 100%;
+}
+.lambang-kabupaten-ponorogo-196-icon3 {
+  width: 62px;
+  height: 63px;
+  position: relative;
+  object-fit: cover;
+  z-index: 1;
+}
+.logo-frame {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-base) 0 0;
+}
+.line-element-child {
+  width: 1px;
+  flex: 1;
+  position: relative;
+  border-right: 1px solid var(--color-black);
+  box-sizing: border-box;
+  z-index: 1;
+}
+.line-element {
+  height: 63px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-3xs) 0 0;
+  box-sizing: border-box;
+}
+.logo-text-1-icon3 {
+  align-self: stretch;
+  height: 47px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.sumoroto-market-label {
+  width: 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+}
+.pasar-rakyat3 {
+  margin: 0;
+}
+.sumoroto4 {
+  margin: 0;
+  font-size: var(--font-size-3xl);
+}
+.pasar-rakyat-sumoroto-container3 {
+  position: relative;
+  line-height: 18px;
+  font-weight: 800;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  z-index: 1;
+}
+.footer-text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-8xs) 0 0;
+}
+.footer1,
+.pelaporan-dan-perijinan1 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  box-sizing: border-box;
+}
+.footer1 {
+  margin: 0 !important;
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  flex-direction: row;
+  justify-content: center;
+  padding: var(--padding-6xl) var(--padding-xl);
+  gap: 0 5px;
+  max-width: 100%;
+  z-index: 2;
+  text-align: left;
+  font-size: var(--font-size-mini);
+  color: var(--color-gray);
+  font-family: var(--font-plus-jakarta-sans);
+}
+.pelaporan-dan-perijinan1 {
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  justify-content: flex-start;
+  padding: 0 0 var(--padding-892xl);
+  letter-spacing: normal;
+}
+@media screen and (max-width: 750px) {
+  .pelaporan-dan-perijinan2 {
+    font-size: var(--font-size-21xl);
+  }
+  .dapat-dilakukan-melalui-container {
+    font-size: var(--font-size-9xl);
+  }
+  .gedung-pemkab-ponorogo {
+    font-size: var(--font-size-5xl);
+  }
+}
+@media screen and (max-width: 450px) {
+  .pelaporan-dan-perijinan2 {
+    font-size: var(--font-size-11xl);
+  }
+  .dapat-dilakukan-melalui-container {
+    font-size: 21px;
+  }
+  .gedung-pemkab-ponorogo {
+    font-size: 18px;
+  }
+  .pencarian1 {
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+  .footer1 {
+    flex-wrap: wrap;
+  }
+}

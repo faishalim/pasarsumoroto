@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./PelaporanDanPerijinan.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Plus Jakarta Sans:ital,wght@0,300;0,400;0,700;0,800;1,700&display=swap"
+    />
+  </head>
+  <body>
+    <div class="pelaporan-dan-perijinan1">
+      <main class="body-1-fix1">
+        <img class="tes-1-icon" alt="" src="./public/tes-1@2x.png" />
+
+        <section class="report-and-permit-label">
+          <div class="report-and-permit-label-child"></div>
+          <h1 class="pelaporan-dan-perijinan2">PELAPORAN DAN PERIJINAN</h1>
+          <div class="kantor-visit-option">
+            <h2 class="dapat-dilakukan-melalui-container">
+              <span>dapat dilakukan melalui kunjungan langsung ke kantor </span>
+              <span class="dinas-perdagkum">Dinas Perdagkum</span>
+              <span> </span>
+              <span class="kabupaten">Kabupaten</span>
+              <span class="span2"> </span>
+              <span class="ponorogo">Ponorogo</span>
+              <span> di:</span>
+            </h2>
+          </div>
+          <div class="pemkab-ponorogo-h-q-address">
+            <div class="pemkab-ponorogo-h-q-address-child"></div>
+            <h3 class="gedung-pemkab-ponorogo">
+              Gedung Pemkab Ponorogo Lt. 7, Jl. Aloon-Aloon Utara No.9,
+              Ponorogo, Mangkujayan, Kec. Ponorogo, Kabupaten Ponorogo, Jawa
+              Timur 63413
+            </h3>
+          </div>
+        </section>
+      </main>
+      <header class="header-fix1">
+        <div class="header-fix-item"></div>
+        <div class="fixed-header-frame">
+          <div
+            class="lambang-kabupaten-ponorogo-fra-parent"
+            id="groupContainer"
+          >
+            <div class="lambang-kabupaten-ponorogo-fra">
+              <div class="header1">
+                <div class="report-and-permits-title"></div>
+                <img
+                  class="logo-text-1-icon2"
+                  loading="eager"
+                  alt=""
+                  src="./public/logotext-1@2x.png"
+                />
+              </div>
+              <img
+                class="lambang-kabupaten-ponorogo-196-icon2"
+                loading="eager"
+                alt=""
+                src="./public/lambang-kabupaten-ponorogo-1969-1@2x.png"
+              />
+
+              <div class="line-separator"></div>
+            </div>
+            <div class="pasar-rakyat-sumoroto-container2">
+              <p class="pasar-rakyat2">Pasar Rakyat</p>
+              <p class="sumoroto3">Sumoroto</p>
+            </div>
+          </div>
+        </div>
+        <div class="profil-pasar-wrapper">
+          <div class="profil-pasar1" id="profilPasarText">Profil Pasar</div>
+        </div>
+        <div class="kontak-kami-wrapper">
+          <div class="kontak-kami1" id="kontakKamiText">Kontak Kami</div>
+        </div>
+        <div class="pelaporan-dan-perijinan3">Pelaporan dan Perijinan</div>
+        <div class="search-field-frame">
+          <div class="pencarian1">
+            <div class="produk-dan-layanan-frame">
+              <div class="body-fix-frame"></div>
+              <div class="search-text"></div>
+            </div>
+            <input
+              class="cari-produk-atau1"
+              placeholder="cari produk atau layanan"
+              type="text"
+            />
+
+            <div class="magnifying-glass-icon"></div>
+            <img
+              class="magnifying-glass-svgrepo-com-1-icon1"
+              alt=""
+              src="./public/magnifyingglasssvgrepocom-1.svg"
+            />
+          </div>
+        </div>
+      </header>
+      <footer class="footer1">
+        <div class="footer-inner"></div>
+        <div class="logo-frame">
+          <img
+            class="lambang-kabupaten-ponorogo-196-icon3"
+            alt=""
+            src="./public/lambang-kabupaten-ponorogo-1969-1@2x.png"
+          />
+        </div>
+        <div class="line-element">
+          <div class="line-element-child"></div>
+        </div>
+        <div class="sumoroto-market-label">
+          <img
+            class="logo-text-1-icon3"
+            alt=""
+            src="./public/logotext-1@2x.png"
+          />
+        </div>
+        <div class="footer-text">
+          <div class="pasar-rakyat-sumoroto-container3">
+            <p class="pasar-rakyat3">Pasar Rakyat</p>
+            <p class="sumoroto4">Sumoroto</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      var groupContainer = document.getElementById("groupContainer");
+      if (groupContainer) {
+        groupContainer.addEventListener("click", function (e) {
+          window.location.href = "./index.html";
+        });
+      }
+      
+      var profilPasarText = document.getElementById("profilPasarText");
+      if (profilPasarText) {
+        profilPasarText.addEventListener("click", function (e) {
+          window.location.href = "./Profil.html";
+        });
+      }
+      
+      var kontakKamiText = document.getElementById("kontakKamiText");
+      if (kontakKamiText) {
+        kontakKamiText.addEventListener("click", function (e) {
+          window.location.href = "./KontakKami.html";
+        });
+      }
+      </script>
+  </body>
+</html>
